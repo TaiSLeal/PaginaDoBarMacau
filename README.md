@@ -10,3 +10,5 @@ O projeto tem as seguintes páginas:
 * Pesquisa de satisfação 
 * Sobre
 * Cardápio 
+
+localização: Se localiza em um dos bairros mais antigos de Salvador, no porto da barra, proximo de vários hoteis, ao lado de uma das praias mais bonitas do mundo, otima para banho.
