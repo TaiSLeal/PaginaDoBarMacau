@@ -13,4 +13,9 @@ O projeto tem as seguintes páginas:
 
 localização: Se localiza em um dos bairros mais antigos de Salvador, no porto da barra, proximo de vários hoteis, ao lado de uma das praias mais bonitas do mundo, otima para banho.
 
+
 cerveja gelada, atendimento acolhedor e o melhor por do sol da bahia 
+
+
+sobre: ....
+
